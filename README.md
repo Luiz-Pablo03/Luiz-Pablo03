@@ -1,4 +1,4 @@
-## Olá, eu sou o Luiz Pablo!☝️
+## Olá, sou o Luiz Pablo!☝️
 ### Apaixonado por tecnologia, programação e tudo que for relacionado a computação
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz-Pablo03&show_icons=true&theme=radical)
